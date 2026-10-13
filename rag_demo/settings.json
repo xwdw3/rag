@@ -1,0 +1,11 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.REPL.enableREPLSmartSend": false,
+    "python-envs.pythonProjects": [
+        {
+            "path": "rag_demo",
+            "envManager": "ms-python.python:system",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
